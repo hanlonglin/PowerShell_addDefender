@@ -5,8 +5,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string.hpp" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="powershell_cpp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="powershell_cpp.rc" />
   </ItemGroup>
 </Project>
